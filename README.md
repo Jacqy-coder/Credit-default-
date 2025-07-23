@@ -75,7 +75,3 @@ This is a **binary classification** problem.
 - Imbalanced-learn
 - SHAP (for model interpretability)
 
----
-
-## 📁 Project Structure (Suggested)
-
